@@ -12,7 +12,7 @@
 - For the third insight, the outcome showed that the number of retweets wasn’t consistent over time. In between May and July 2016 there was a higher retweet count compared to other years.  The twitter user would use this insight to find out more on what people find interesting so that he can concentrate on that.
 
 ## Key Insights for Presentation
-> Comparison in the dog stages by the counts
-> Comparison between retweet count and favorite count
-> Comparison between retweet count and timestamp
+- Comparison in the dog stages by the counts
+- Comparison between retweet count and favorite count
+- Comparison between retweet count and timestamp
 
